@@ -16,7 +16,7 @@ Cybersecurity is the practice of protecting systems, networks, and programs from
 
 ## 📂 Repository Structure
 ```
-CyberSecurity-Toolkit/
+CyberSecurity/
 ├── Vulnerabilities/
 │   ├── BSDSF21A026_ASSIGNMENT1.pdf  # Discussion on HTML Injection, XSS, and SQL Injection
 ├── Exploits/
